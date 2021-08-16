@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osmir-mariano-a03a3170/)](https://www.linkedin.com/in/silvio-antonio-de-oliveira-junior-621813142)
 
-### Helo :waving_hand_light_skin_tone:, welcome to my profile
+### Olá, bem vindo ao meu perfil!
 
 Sou desenvolvedor de software formado no [ifto palmas](https://github.com/ifto-palmas), atualmente atuo com 
   <img align="center" alt="Silvio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/> desenvolvendo soluções e mantendo produtos, desenvolvo alguns projetos paralelos que podem ser encontrados aqui no GitHub e tambem no alguns artigos que ficam disponiveis em meu LinkedIn.
