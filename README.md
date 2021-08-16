@@ -28,6 +28,3 @@ Sou desenvolvedor de software formado no [ifto palmas](https://github.com/ifto-p
   <img align="center" alt="Silvio-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"/>
 </div>
 <hr>
-<div>
-  ![Snake animation](https://github.com/silvioantonio/silvioantonio/blob/output/github-contribution-grid-snake.svg)
-</div>
